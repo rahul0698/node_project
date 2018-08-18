@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="163f1fb1-b425-4b19-a752-daca4449df88" name="Default" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.data/users/0123456789.json" beforeDir="false" afterPath="$PROJECT_DIR$/.data/users/0123456789.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/handlers.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/handlers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/helpers.js" afterDir="false" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.data/users/0123456789.json" afterPath="$PROJECT_DIR$/.data/users/0123456789.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/handlers.js" afterPath="$PROJECT_DIR$/lib/handlers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/helpers.js" afterPath="$PROJECT_DIR$/lib/helpers.js" />
+>>>>>>> b52e8ad75df2d6454f59b9cb27bb3d2e6da0de97
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,11 +31,17 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="289">
               <caret line="98" column="47" lean-forward="true" selection-start-line="98" selection-start-column="47" selection-end-line="98" selection-end-column="47" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="969">
+              <caret line="111" column="29" lean-forward="false" selection-start-line="111" selection-start-column="29" selection-end-line="111" selection-end-column="29" />
+              <folding />
+>>>>>>> b52e8ad75df2d6454f59b9cb27bb3d2e6da0de97
             </state>
           </provider>
         </entry>
@@ -35,8 +49,13 @@
       <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/data.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="561">
               <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+=======
+            <state relative-caret-position="17">
+              <caret line="34" column="34" lean-forward="false" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+>>>>>>> b52e8ad75df2d6454f59b9cb27bb3d2e6da0de97
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -47,8 +66,13 @@
       <file leaf-file-name="handlers.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/handlers.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="340">
               <caret line="258" selection-start-line="258" selection-end-line="258" />
+=======
+            <state relative-caret-position="893">
+              <caret line="103" column="14" lean-forward="true" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
+>>>>>>> b52e8ad75df2d6454f59b9cb27bb3d2e6da0de97
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -64,8 +88,13 @@
       <file leaf-file-name="helpers.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/helpers.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="357">
               <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+=======
+            <state relative-caret-position="346">
+              <caret line="45" column="48" lean-forward="false" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+>>>>>>> b52e8ad75df2d6454f59b9cb27bb3d2e6da0de97
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -77,7 +106,12 @@
         <entry file="file://$PROJECT_DIR$/lib/config.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
+<<<<<<< HEAD
               <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+=======
+              <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+              <folding />
+>>>>>>> b52e8ad75df2d6454f59b9cb27bb3d2e6da0de97
             </state>
           </provider>
         </entry>
@@ -92,9 +126,13 @@
       <list>
         <option value="$PROJECT_DIR$/lib/data.js" />
         <option value="$PROJECT_DIR$/config.js" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+=======
+>>>>>>> b52e8ad75df2d6454f59b9cb27bb3d2e6da0de97
         <option value="$PROJECT_DIR$/lib/helpers.js" />
+        <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/lib/handlers.js" />
       </list>
     </option>
@@ -120,7 +158,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+      <pane id="Scratches" />
+>>>>>>> b52e8ad75df2d6454f59b9cb27bb3d2e6da0de97
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,6 +185,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,13 +232,20 @@
       <workItem from="1534149002666" duration="2819000" />
       <workItem from="1534224593445" duration="10008000" />
       <workItem from="1534397367983" duration="13601000" />
+<<<<<<< HEAD
       <workItem from="1534520336973" duration="2689000" />
       <workItem from="1534601895794" duration="3111000" />
+=======
+>>>>>>> b52e8ad75df2d6454f59b9cb27bb3d2e6da0de97
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="59000000" />
+=======
+    <option name="totallyTimeSpent" value="53200000" />
+>>>>>>> b52e8ad75df2d6454f59b9cb27bb3d2e6da0de97
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -256,6 +306,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1836">
           <caret line="111" column="29" selection-start-line="111" selection-start-column="29" selection-end-line="111" selection-end-column="29" />
         </state>
@@ -275,6 +326,35 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/helpers.js">
+=======
+        <state relative-caret-position="170">
+          <caret line="13" column="39" lean-forward="false" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="34" lean-forward="false" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/helpers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.data/users/0123456789.json">
+>>>>>>> b52e8ad75df2d6454f59b9cb27bb3d2e6da0de97
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
@@ -287,7 +367,39 @@
     <entry file="file://$PROJECT_DIR$/lib/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
+<<<<<<< HEAD
           <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+=======
+          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/handlers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="75" column="1" lean-forward="true" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.data/test/newFile.json" />
+    <entry file="file://$PROJECT_DIR$/lib/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding />
+>>>>>>> b52e8ad75df2d6454f59b9cb27bb3d2e6da0de97
         </state>
       </provider>
     </entry>
@@ -308,6 +420,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/lib/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -331,6 +444,9 @@
     <entry file="file://$PROJECT_DIR$/.data/users/0123456789.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+=======
+    <entry file="file://$PROJECT_DIR$/.data/test/newFile.json" />
+>>>>>>> b52e8ad75df2d6454f59b9cb27bb3d2e6da0de97
     <entry file="file://$PROJECT_DIR$/lib/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -363,6 +479,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/lib/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
@@ -380,6 +497,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> b52e8ad75df2d6454f59b9cb27bb3d2e6da0de97
     <entry file="file://$PROJECT_DIR$/.data/test/newFile.json" />
     <entry file="file://$PROJECT_DIR$/lib/config.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -423,6 +542,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -430,6 +550,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> b52e8ad75df2d6454f59b9cb27bb3d2e6da0de97
     <entry file="file://$PROJECT_DIR$/.data/test/newFile.json" />
     <entry file="file://$PROJECT_DIR$/lib/data.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -523,6 +645,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.data/test/newFile.json" />
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/lib/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -540,18 +663,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="6" selection-start-column="6" selection-end-column="6" />
+=======
+    <entry file="file://$PROJECT_DIR$/lib/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="34" column="34" lean-forward="false" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+>>>>>>> b52e8ad75df2d6454f59b9cb27bb3d2e6da0de97
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/config.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="170">
           <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+=======
+        <state relative-caret-position="969">
+          <caret line="111" column="29" lean-forward="false" selection-start-line="111" selection-start-column="29" selection-end-line="111" selection-end-column="29" />
+          <folding />
+>>>>>>> b52e8ad75df2d6454f59b9cb27bb3d2e6da0de97
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/helpers.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="357">
           <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
           <folding>
@@ -564,6 +711,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="98" column="47" lean-forward="true" selection-start-line="98" selection-start-column="47" selection-end-line="98" selection-end-column="47" />
+=======
+        <state relative-caret-position="346">
+          <caret line="45" column="48" lean-forward="false" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+>>>>>>> b52e8ad75df2d6454f59b9cb27bb3d2e6da0de97
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -572,8 +723,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/handlers.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="340">
           <caret line="258" selection-start-line="258" selection-end-line="258" />
+=======
+        <state relative-caret-position="893">
+          <caret line="103" column="14" lean-forward="true" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
+>>>>>>> b52e8ad75df2d6454f59b9cb27bb3d2e6da0de97
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
